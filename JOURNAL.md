@@ -35,7 +35,7 @@ Both of us worked 4.5 hours
 
   
 
-## 11/3/2025 - Finished Wheels, Designed Bottom Plate, Adjusted Upright  
+## 11/3/2025 12 AM - Finished Wheels, Designed Bottom Plate, Adjusted Upright  
 
 I spent today largely finishing the drive system of the robot, with some of my efforts directed towards adjusting the Uprights to fit the Dartbox Pro Motors. 
 
@@ -59,6 +59,31 @@ Progress for Today:
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2MywicHVyIjoiYmxvYl9pZCJ9fQ==--3ad16b0679c8ae83df0916af4d110ed69dd5c476/image.png)
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d8bbd2a16de9eae2f2aa067b56bbc0f4c98a9f0/image.png)
+
+
+
+
+  
+
+## 11/3/2025 11 PM - Designed Forks V1, Drafted Wheel Guards, Added Inserts  
+
+Today I focused on designing the forks for the robot. I wanted to knock these out so that I could adjust the wedge tomorrow. I also mocked up wheel guards in Microsoft Whiteboard, which will preferably be made out of TPU. Then I added some bolts and threaded inserts (added them to the BOM as well) to make the CAD more accurate to the actual design. Finally, I added some relations to my assembly to add some accurate animations to the robot. Hoping my partner and I will be able to finish the uprights and weapon system by Thursday. 
+
+Minimal Changes:
+- CF Nylon is being considered for the Side Chassis to be able to be used with heat set inserts 
+- Changed connecting part angle from 60 deg to 45 deg to account for wedge optimal angle
+ 
+CAD Progress:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--91c5f83da5d8149faea22b06c83177f4f5be459a/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6a0042e2c48d71b54bad766d7261f81608d12d55/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--58653dc2f7b0c26d63372ca0dafc7885eeb28746/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--26365a37c0eb54a22b2b4756370d26bea8d03d35/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--36130fb5445843e7c94195c4b9f9c39c0adbb458/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2MywicHVyIjoiYmxvYl9pZCJ9fQ==--986915b9d32c4062e23b9d0afa50dffb32587af2/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2835d5e0bde42542be05490b4d913ff5179eb4e5/image.png)
+
+
+
 
 
 
