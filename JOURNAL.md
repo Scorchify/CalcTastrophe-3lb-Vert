@@ -102,3 +102,42 @@ Planning to reinforce the wedge mounting wise and mount the top plate.
 
   
 
+## 11/6/2025 - Designed Top and Bottom Plates, Drafted Spinner, Added Holes  
+
+Small Changes: 
+- Defined name (CalcTastrophe)
+- Small Changes made to the wheel size to clear the ground (increased from 2 inches to 2.5in)
+
+Major Changes: 
+We finalized the Top and Bottom Plates (Made to be machined in carbon fiber)
+	- We chose carbon fiber because it provides an exceptional amount of stiffness and strength at a low 		weight cost
+We made an unfinished weight calculation spreadsheet
+We picked a motor (2836) via motor calculations for our spinner
+Designed Spinner and chose pulley to work with it for a deadshaft design
+	- Opted for an asymmetric single-toothed design to maximize bite
+
+Changed position of holes for top and bottom plates (and added inserts)
+	- Strategically put them in places that can be accessed from the other side with the corresponding nut. 
+Upright "ears" were modified to hold the robot up just enough to flip itself back over.
+
+
+James: 5.0hrs, Ayden 3.5hrs 
+CAD Pictures:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--bbdcff9b6600fab702bf69e5c12d6058eda98461/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--15b348f47b72257b65a1db815fd5e0198868edb9/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxNywicHVyIjoiYmxvYl9pZCJ9fQ==--3852df34b8bb6384f233679855cc0ca413411ca2/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cf4b9be872a2eaeae71d853bfbf9201b6bfef66/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--b53b57d8b1b4ea6a4a345acafcd40c61b88a1b7e/image.png)
+
+Spreadsheets + Calculations: 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--0eaf1366e06a8869c180c3c743f960107f2d3ebe/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODgyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3a02d461cdecfed657aed96cf2864410db4fad35/image.png)
+
+
+
+
+
+
+
+  
+
