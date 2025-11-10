@@ -165,3 +165,46 @@ With Upright Removed:
 
   
 
+## 11/10/2025 - Wheel Guards, Changed Bolt Placement, BOM/Spinner Progress  
+
+Minor Changes:
+- Updated Name (Vertically Challenged -> CalcTastrophe)
+- Defined UHMW Uprights as a In-house machined part (CNC milled)
+- Increased Fork Length from 1.5" to 2" 
+
+
+Major Updates:
+- BOM updated most non-bolt items
+	- Still debating TX and RX choices, will see based on price
+- Wheel Guards are designed
+	- 0.375" Thickness, TPU 95A 
+-  Changed Bolt Placement for Wedges, added additional bolts for bottom plates
+- Reran Spinner Calculation
+	- Defined 900mAh 80C as a Battery Parameter
+	- Changed Weapon Design from one 0.5" thick AR500 blade to two 0.375" AR500 blades
+- Designed Carbon Fiber Plate to protect weapon belt transmission
+
+To do: 
+- Finish BOM
+- Cut down on Bolts + Insert usage (too much weight dedicated towards that)
+- CAD weapon shaft and bearings
+- CAD weapon separation, pulley in the middle 
+- Fusion Assembly and Appearance Render 
+
+Pictures: 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--937ea557b8e23f9287344e787018bfc1ef421799/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk2NywicHVyIjoiYmxvYl9pZCJ9fQ==--955d92d2e64f61a520f487b329bb9922cc11ccca/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9e7a8d761d0990341b63737919c24599aa67e9e8/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4519fb11cf5064e2f4fdbc7ffdaf5918cf6f3d63/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--8146b35a325e73f039f3c29f570a67cae156d399/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d09241a7b67dae7bf381266f75c59e5d46f37c9a/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTk3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d36f3afa29811c7b70ae30d9f0e492e29eb5588e/image.png)
+
+
+
+
+
+
+  
+
