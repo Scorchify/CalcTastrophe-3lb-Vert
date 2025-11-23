@@ -67,7 +67,7 @@ As President and Vice-President of our school’s combat robotics club, we wante
 | PU Belt 10ft 3mm | https://www.amazon.com/dp/B0D5RGRXGM | 1 | $6.09 | $6.09 | Amazon |
 | uxcell HK0608 Drawn Cup Needle Roller Bearings | https://www.amazon.com/dp/B07GC8WZVV | 1 | $8.39 | $8.39 | Amazon |
 | MECCANIXITY Shoulder Bolt 4mm x 50mm | https://www.amazon.com/dp/B0FDQ57LHD | 1 | $7.49 | $7.49 | Amazon |
-| 4S 900mAh 80C Lipo Battery (2 pack) | https://flywoo.net/products/explorer-900mah-hv-15-2v-80c-4s1p-lipo-battery-pack-xt30 | 1 | $45.99 | $45.99 | Flywoo |
+| 4S 900mAh 80C Lipo Battery (2 pack) | https://zencopter.com/products/flywoo-4s-900mah-hv-80c-lipo-battery-xt30-plug-1pc?variant=42551031398535 | 1 | $38.99 | $38.99 | Zencopter |
 | Propdrive v2 2836 | https://hobbyking.com/en_us/propdrive-v2-2836-2700kv-brushless-outrunner-motor.html | 1 | $23.27 | $23.27 | HobbyKing |
 | Pololu Universal Hub 2pck | https://www.pololu.com/product/1083 | 1 | $12.95 | $12.95 | Pololu |
 | Repeat Long Drive Axles | https://itgresa.com/product/rr-drive-axle-bw-long | 2 | $6.00 | $12.00 | ItGresa |
